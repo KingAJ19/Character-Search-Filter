@@ -6,10 +6,9 @@ let products = {
         image: "Images/Characters/JJK/gojo.png",
       },
       {
-        productName: "Beige Short Skirt",
-        category: "Bottomwear",
-        price: "49",
-        image: "short-skirt.jpg",
+        productName: "Yuji Itadori",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
       },
       {
         productName: "Sporty SmartWatch",
