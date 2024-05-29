@@ -1,10 +1,9 @@
 let products = {
     data: [
       {
-        productName: "Regular White T-Shirt",
-        category: "Topwear",
-        price: "30",
-        image: "white-tshirt.jpg",
+        productName: "Satoru Gojo",
+        category: "JJK",
+        image: "Images/Characters/JJK/gojo.png",
       },
       {
         productName: "Beige Short Skirt",
@@ -72,10 +71,6 @@ let products = {
     name.classList.add("product-name");
     name.innerText = i.productName.toUpperCase();
     container.appendChild(name);
-    //price
-    let price = document.createElement("h6");
-    price.innerText = "$" + i.price;
-    container.appendChild(price);
   
     card.appendChild(container);
     document.getElementById("products").appendChild(card);
