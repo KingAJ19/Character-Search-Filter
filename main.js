@@ -26,9 +26,9 @@ let products = {
         image: "Images/Characters/JJK/sukuna.png",
       },
       {
-        productName: "Stylish Pink Trousers",
-        category: "Bottomwear",
-        image: "Images/Characters/JJK/.jpg",
+        productName: "Atsuya Kusakabe",
+        category: "JJK",
+        image: "Images/Characters/JJK/Kusakabe.webp",
       },
       {
         productName: "Brown Men's Jacket",
