@@ -13,7 +13,7 @@ let products = {
       {
         productName: "Toji Fushiguro",
         category: "JJK",
-        image: "Images/Characters/toji.jpg",
+        image: "Images/Characters/JJK/toji.jpg",
       },
       {
         productName: "Basic Knitted Top",
