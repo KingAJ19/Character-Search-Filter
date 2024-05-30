@@ -37,7 +37,7 @@ let products = {
       },
       {
         productName: "Comfy Gray Pants",
-        category: "Bottomwear",
+        category: "JJK",
         image: "Images/Characters/JJK/.jpg",
       },
     ],
