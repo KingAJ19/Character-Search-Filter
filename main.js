@@ -31,7 +31,7 @@ let products = {
         image: "Images/Characters/JJK/Kusakabe.webp",
       },
       {
-        productName: "Shoko",
+        productName: "Shoko Ieri",
         category: "JJK",
         image: "Images/Characters/JJK/Shoko.webp",
       },
