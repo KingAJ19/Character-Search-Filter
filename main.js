@@ -40,6 +40,101 @@ let products = {
         category: "JJK",
         image: "Images/Characters/JJK/Yaga.webp",
       },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
+      {
+        productName: "Masamichi Yaga",
+        category: "JJK",
+        image: "Images/Characters/JJK/Yaga.webp",
+      },
     ],
   };
   
