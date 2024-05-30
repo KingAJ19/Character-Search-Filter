@@ -143,7 +143,7 @@ let products = {
       {
         productName: "Mahito",
         category: "JJK",
-        image: "Images/Characters/JJK/mahito.jpg",
+        image: "Images/Characters/JJK/mahito.webp",
       },
       {
         productName: "Misato Kuroi",
