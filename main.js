@@ -23,7 +23,7 @@ let products = {
       {
         productName: "Android 17",
         category: "DBZ",
-        image: "Images/Characters/DBZ/Android.webp",
+        image: "Images/Characters/DBZ/Android_17.webp",
       },
       {
         productName: "Toji Fushiguro",
