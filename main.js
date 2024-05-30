@@ -76,9 +76,9 @@ let products = {
         image: "Images/Characters/JJK/Todo.webp",
       },
       {
-        productName: "Yoruzu",
+        productName: "Yorozu",
         category: "JJK",
-        image: "Images/Characters/JJK/Yoruzu.webp",
+        image: "Images/Characters/JJK/Yorozu.webp",
       },
       {
         productName: "Yu Haibara",
