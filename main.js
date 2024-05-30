@@ -36,9 +36,9 @@ let products = {
         image: "Images/Characters/JJK/Shoko.webp",
       },
       {
-        productName: "Comfy Gray Pants",
+        productName: "Masamichi Yaga",
         category: "JJK",
-        image: "Images/Characters/JJK/.jpg",
+        image: "Images/Characters/JJK/Yaga.webp",
       },
     ],
   };
