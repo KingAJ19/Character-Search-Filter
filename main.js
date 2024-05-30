@@ -11,6 +11,26 @@ let products = {
         image: "Images/Characters/JJK/yuji.png",
       },
       {
+        productName: "Yuji Itadori",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
+      },
+      {
+        productName: "Yuji Itadori",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
+      },
+      {
+        productName: "Yuji Itadori",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
+      },
+      {
+        productName: "Yuji Itadori",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
+      },
+      {
         productName: "Toji Fushiguro",
         category: "JJK",
         image: "Images/Characters/JJK/toji.jpg",
