@@ -11,10 +11,9 @@ let products = {
         image: "Images/Characters/JJK/yuji.png",
       },
       {
-        productName: "Sporty SmartWatch",
-        category: "Watch",
-        price: "99",
-        image: "sporty-smartwatch.jpg",
+        productName: "Toji Fushiguro",
+        category: "JJK",
+        image: "Images/Characters/Toji.jpg",
       },
       {
         productName: "Basic Knitted Top",
