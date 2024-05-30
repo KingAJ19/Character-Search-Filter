@@ -7,23 +7,23 @@ let products = {
       },
       {
         productName: "Yuji Itadori",
-        category: "JJK",
-        image: "Images/Characters/JJK/yuji.png",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/yuji.png",
       },
       {
         productName: "Yuji Itadori",
-        category: "JJK",
-        image: "Images/Characters/JJK/yuji.png",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/yuji.png",
       },
       {
         productName: "Yuji Itadori",
-        category: "JJK",
-        image: "Images/Characters/JJK/yuji.png",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/yuji.png",
       },
       {
         productName: "Yuji Itadori",
-        category: "JJK",
-        image: "Images/Characters/JJK/yuji.png",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/yuji.png",
       },
       {
         productName: "Toji Fushiguro",
