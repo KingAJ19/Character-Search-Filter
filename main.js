@@ -17,7 +17,7 @@ let products = {
       },
       {
         productName: "Basic Knitted Top",
-        category: "Topwear",
+        category: "JJK",
         image: "Images/Characters/JJK/",
       },
       {
