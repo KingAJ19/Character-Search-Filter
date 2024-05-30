@@ -61,9 +61,9 @@ let products = {
         image: "Images/Characters/JJK/Takaba.webp",
       },
       {
-        productName: "Masamichi Yaga",
+        productName: "Takako Uro",
         category: "JJK",
-        image: "Images/Characters/JJK/Yaga.webp",
+        image: "Images/Characters/JJK/Takako.webp",
       },
       {
         productName: "Masamichi Yaga",
