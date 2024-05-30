@@ -16,9 +16,9 @@ let products = {
         image: "Images/Characters/JJK/toji.jpg",
       },
       {
-        productName: "Basic Knitted Top",
+        productName: "Rika Orimoto",
         category: "JJK",
-        image: "Images/Characters/JJK/",
+        image: "Images/Characters/JJK/rika.webp",
       },
       {
         productName: "Black Leather Jacket",
