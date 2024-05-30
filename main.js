@@ -86,6 +86,11 @@ let products = {
         image: "Images/Characters/JJK/Riko.webp",
       },
       {
+        productName: "Babidi",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Babidi.webp",
+      },
+      {
         productName: "Ryu Ishigori",
         category: "JJK",
         image: "Images/Characters/JJK/Ryu.webp",
@@ -94,6 +99,11 @@ let products = {
         productName: "Fumihiko Takaba",
         category: "JJK",
         image: "Images/Characters/JJK/Takaba.webp",
+      },
+      {
+        productName: "Baby",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Baby.webp",
       },
       {
         productName: "Takako Uro",
@@ -106,9 +116,29 @@ let products = {
         image: "Images/Characters/JJK/Tengen.webp",
       },
       {
+        productName: "Bardock",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Bardock.webp",
+      },
+      {
+        productName: "Beerus",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Beerus.webp",
+      },
+      {
+        productName: "Bido",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Bido.webp",
+      },
+      {
         productName: "Aoi Todo",
         category: "JJK",
         image: "Images/Characters/JJK/Todo.webp",
+      },
+      {
+        productName: "Bio-Man",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Bio-Man.webp",
       },
       {
         productName: "Yorozu",
@@ -116,9 +146,24 @@ let products = {
         image: "Images/Characters/JJK/Yorozu.webp",
       },
       {
+        productName: "Borgos",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Borgos.webp",
+      },
+      {
+        productName: "Broly",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Broly.webp",
+      },
+      {
         productName: "Yu Haibara",
         category: "JJK",
         image: "Images/Characters/JJK/Yu.webp",
+      },
+      {
+        productName: "Bubbles",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Bubbles.webp",
       },
       {
         productName: "Yuki Tsukomo",
@@ -136,6 +181,21 @@ let products = {
         image: "Images/Characters/JJK/Remi.webp",
       },
       {
+        productName: "Bulma",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Bulma.webp",
+      },
+      {
+        productName: "Burter",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Burter.webp",
+      },
+      {
+        productName: "Caulif",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Caulif.webp",
+      },
+      {
         productName: "Panda",
         category: "JJK",
         image: "Images/Characters/JJK/Panda.webp",
@@ -146,14 +206,29 @@ let products = {
         image: "Images/Characters/JJK/Nobara.webp",
       },
       {
+        productName: "Cell",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Cell.webp",
+      },
+      {
         productName: "Momo Nishimiya",
         category: "JJK",
         image: "Images/Characters/JJK/Momo.webp",
       },
       {
+        productName: "Chi-Chi",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Chi-Chi.webp",
+      },
+      {
         productName: "Kasumi Miwa",
         category: "JJK",
         image: "Images/Characters/JJK/Miwa.webp",
+      },
+      {
+        productName: "Dabura",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Dabura.webp",
       },
       {
         productName: "Mei Mei",
@@ -166,9 +241,24 @@ let products = {
         image: "Images/Characters/JJK/Megumi.webp",
       },
       {
+        productName: "Damom",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Damom.webp",
+      },
+      {
+        productName: "Dende",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Dende.webp",
+      },
+      {
         productName: "Maki Zenin",
         category: "JJK",
         image: "Images/Characters/JJK/Maki.webp",
+      },
+      {
+        productName: "Frieza",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Frieza.webp",
       },
       {
         productName: "Mai Zenin",
@@ -181,9 +271,24 @@ let products = {
         image: "Images/Characters/JJK/mahito.webp",
       },
       {
+        productName: "Gohan",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Gohan.webp",
+      },
+      {
         productName: "Misato Kuroi",
         category: "JJK",
         image: "Images/Characters/JJK/Kuroi.webp",
+      },
+      {
+        productName: "Goku Black",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Goku Black.webp",
+      },
+      {
+        productName: "Goku",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Goku.webp",
       },
       {
         productName: "Kirara Hoshi",
@@ -196,14 +301,29 @@ let products = {
         image: "Images/Characters/JJK/Kashimo.webp",
       },
       {
+        productName: "Supreme Kai",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Kaioshin.webp",
+      },
+      {
         productName: "Kaori Itadori",
         category: "JJK",
         image: "Images/Characters/JJK/kaori.webp",
       },
       {
+        productName: "Kibito Kai",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Kibito.webp",
+      },
+      {
         productName: "Noritoshi Kamo",
         category: "JJK",
         image: "Images/Characters/JJK/Kamo.webp",
+      },
+      {
+        productName: "Kid Buu",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Kid_Buu.webp",
       },
       {
         productName: "Toge Inumaki",
@@ -216,6 +336,16 @@ let products = {
         image: "Images/Characters/JJK/Ino.webp",
       },
       {
+        productName: "Krillin",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Krillin.webp",
+      },
+      {
+        productName: "Master Roshi",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Master_roshi.webp",
+      },
+      {
         productName: "Hiromi Higuruma",
         category: "JJK",
         image: "Images/Characters/JJK/Higuruma.webp",
@@ -224,6 +354,16 @@ let products = {
         productName: "Hana Kurusu",
         category: "JJK",
         image: "Images/Characters/JJK/Hana.webp",
+      },
+      {
+        productName: "Mr Satan",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Mr_Satan.webp",
+      },
+      {
+        productName: "Pan",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Pan.webp",
       },
       {
         productName: "Kinji Hakari",
@@ -236,14 +376,29 @@ let products = {
         image: "Images/Characters/JJK/Akari.webp",
       },
       {
-        productName: "Masamichi Yaga",
-        category: "JJK",
-        image: "Images/Characters/JJK/Yaga.webp",
+        productName: "Porunga",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Porunga.webp",
       },
       {
-        productName: "Masamichi Yaga",
-        category: "JJK",
-        image: "Images/Characters/JJK/Yaga.webp",
+        productName: "Raditz",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Raditz.webp",
+      },
+      {
+        productName: "Vegeta",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Vegeta.webp",
+      },
+      {
+        productName: "Videl",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Videl.webp",
+      },
+      {
+        productName: "Zeno",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Zeno.webp",
       },
       {
         productName: "Masamichi Yaga",
