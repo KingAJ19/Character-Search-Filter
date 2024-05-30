@@ -31,9 +31,9 @@ let products = {
         image: "Images/Characters/JJK/Kusakabe.webp",
       },
       {
-        productName: "Brown Men's Jacket",
-        category: "Jacket",
-        image: "Images/Characters/JJK/.jpg",
+        productName: "Shoko",
+        category: "JJK",
+        image: "Images/Characters/JJK/Shoko.webp",
       },
       {
         productName: "Comfy Gray Pants",
