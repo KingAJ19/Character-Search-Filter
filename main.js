@@ -6,24 +6,24 @@ let products = {
         image: "Images/Characters/JJK/gojo.png",
       },
       {
-        productName: "Yuji Itadori",
+        productName: "Android 13",
         category: "DBZ",
-        image: "Images/Characters/DBZ/yuji.png",
+        image: "Images/Characters/DBZ/Android_13.webp",
       },
       {
         productName: "Yuji Itadori",
-        category: "DBZ",
-        image: "Images/Characters/DBZ/yuji.png",
+        category: "JJK",
+        image: "Images/Characters/JJK/yuji.png",
       },
       {
-        productName: "Yuji Itadori",
+        productName: "Android 16",
         category: "DBZ",
-        image: "Images/Characters/DBZ/yuji.png",
+        image: "Images/Characters/DBZ/Android_16.webp",
       },
       {
-        productName: "Yuji Itadori",
+        productName: "Android 17",
         category: "DBZ",
-        image: "Images/Characters/DBZ/yuji.png",
+        image: "Images/Characters/DBZ/Android.webp",
       },
       {
         productName: "Toji Fushiguro",
