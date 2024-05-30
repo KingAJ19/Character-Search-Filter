@@ -81,9 +81,9 @@ let products = {
         image: "Images/Characters/JJK/Yorozu.webp",
       },
       {
-        productName: "Yu Haibara",
+        productName: "Panda",
         category: "JJK",
-        image: "Images/Characters/JJK/Yu.webp",
+        image: "Images/Characters/JJK/Panda.webp",
       },
       {
         productName: "Yuki Tsukomo",
