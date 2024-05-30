@@ -76,6 +76,11 @@ let products = {
         image: "Images/Characters/JJK/Rin.webp",
       },
       {
+        productName: "Angela",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Angela.webp",
+      },
+      {
         productName: "Riko Amanai",
         category: "JJK",
         image: "Images/Characters/JJK/Riko.webp",
