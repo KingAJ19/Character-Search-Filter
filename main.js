@@ -28,17 +28,17 @@ let products = {
       {
         productName: "Stylish Pink Trousers",
         category: "Bottomwear",
-        image: "pink-trousers.jpg",
+        image: "Images/Characters/JJK/.jpg",
       },
       {
         productName: "Brown Men's Jacket",
         category: "Jacket",
-        image: "brown-jacket.jpg",
+        image: "Images/Characters/JJK/.jpg",
       },
       {
         productName: "Comfy Gray Pants",
         category: "Bottomwear",
-        image: "comfy-gray-pants.jpg",
+        image: "Images/Characters/JJK/.jpg",
       },
     ],
   };
