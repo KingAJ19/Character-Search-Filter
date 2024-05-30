@@ -23,25 +23,21 @@ let products = {
       {
         productName: "Black Leather Jacket",
         category: "Jacket",
-        price: "129",
         image: "black-leather-jacket.jpg",
       },
       {
         productName: "Stylish Pink Trousers",
         category: "Bottomwear",
-        price: "89",
         image: "pink-trousers.jpg",
       },
       {
         productName: "Brown Men's Jacket",
         category: "Jacket",
-        price: "189",
         image: "brown-jacket.jpg",
       },
       {
         productName: "Comfy Gray Pants",
         category: "Bottomwear",
-        price: "49",
         image: "comfy-gray-pants.jpg",
       },
     ],
