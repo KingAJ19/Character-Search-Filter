@@ -18,7 +18,6 @@ let products = {
       {
         productName: "Basic Knitted Top",
         category: "Topwear",
-        price: "29",
         image: "knitted-top.jpg",
       },
       {
