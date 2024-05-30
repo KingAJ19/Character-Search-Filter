@@ -21,9 +21,9 @@ let products = {
         image: "Images/Characters/JJK/rika.webp",
       },
       {
-        productName: "Black Leather Jacket",
-        category: "Jacket",
-        image: "black-leather-jacket.jpg",
+        productName: "Sukuna",
+        category: "JJK",
+        image: "Images/Characters/JJK/sukuna.png",
       },
       {
         productName: "Stylish Pink Trousers",
