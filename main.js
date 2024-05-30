@@ -36,6 +36,16 @@ let products = {
         image: "Images/Characters/JJK/rika.webp",
       },
       {
+        productName: "Android 18",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Android_18.webp",
+      },
+      {
+        productName: "Android 19",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Android_17.webp",
+      },
+      {
         productName: "Sukuna",
         category: "JJK",
         image: "Images/Characters/JJK/sukuna.png",
@@ -49,6 +59,11 @@ let products = {
         productName: "Shoko Ieri",
         category: "JJK",
         image: "Images/Characters/JJK/Shoko.webp",
+      },
+      {
+        productName: "Android 21",
+        category: "DBZ",
+        image: "Images/Characters/DBZ/Android_21.webp",
       },
       {
         productName: "Masamichi Yaga",
