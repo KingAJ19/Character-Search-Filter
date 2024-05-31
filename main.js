@@ -111,9 +111,19 @@ let products = {
         image: "Images/Characters/JJK/Rin.webp",
       },
       {
+        productName: "Deidara",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Deidara.webp",
+      },
+      {
         productName: "Angela",
         category: "DBZ",
         image: "Images/Characters/DBZ/Angela.webp",
+      },
+      {
+        productName: "Dekai",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Dekai.webp",
       },
       {
         productName: "Riko Amanai",
@@ -129,6 +139,11 @@ let products = {
         productName: "Ryu Ishigori",
         category: "JJK",
         image: "Images/Characters/JJK/Ryu.webp",
+      },
+      {
+        productName: "Ebisu",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Ebisu.webp",
       },
       {
         productName: "Fumihiko Takaba",
