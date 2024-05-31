@@ -166,14 +166,29 @@ let products = {
         image: "Images/Characters/JJK/Tengen.webp",
       },
       {
+        productName: "Gaara",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Gaara.webp",
+      },
+      {
         productName: "Bardock",
         category: "DBZ",
         image: "Images/Characters/DBZ/Bardock.webp",
       },
       {
+        productName: "Ginkaku",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Ginkaku.webp",
+      },
+      {
         productName: "Beerus",
         category: "DBZ",
         image: "Images/Characters/DBZ/Beerus.webp",
+      },
+      {
+        productName: "Hanabi Hyuga",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Hanabi.webp",
       },
       {
         productName: "Bido",
