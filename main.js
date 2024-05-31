@@ -51,9 +51,19 @@ let products = {
         image: "Images/Characters/JJK/rika.webp",
       },
       {
+        productName: "Boruto Uzumaki",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Boruto.webp",
+      },
+      {
         productName: "Android 18",
         category: "DBZ",
         image: "Images/Characters/DBZ/Android_18.webp",
+      },
+      {
+        productName: "Chiyo",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Chiyo.webp",
       },
       {
         productName: "Android 19",
