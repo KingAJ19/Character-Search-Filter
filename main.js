@@ -81,6 +81,11 @@ let products = {
         image: "Images/Characters/JJK/Kusakabe.webp",
       },
       {
+        productName: "Choji Akimichi",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Choji.webp",
+      },
+      {
         productName: "Shoko Ieri",
         category: "JJK",
         image: "Images/Characters/JJK/Shoko.webp",
@@ -89,6 +94,11 @@ let products = {
         productName: "Android 21",
         category: "DBZ",
         image: "Images/Characters/DBZ/Android_21.webp",
+      },
+      {
+        productName: "Danzo",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Danzo.webp",
       },
       {
         productName: "Masamichi Yaga",
