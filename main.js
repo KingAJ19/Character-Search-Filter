@@ -383,7 +383,7 @@ let products = {
       {
         productName: "Raditz",
         category: "DBZ",
-        image: "Images/Characters/DBZ/Raditz.webp",
+        image: "Images/Characters/DBZ/Raditz.webp", 
       },
       {
         productName: "Vegeta",
