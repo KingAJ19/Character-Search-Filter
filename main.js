@@ -206,6 +206,11 @@ let products = {
         image: "Images/Characters/DBZ/Bio-Man.webp",
       },
       {
+        productName: "Hidan",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Hidan.webp",
+      },
+      {
         productName: "Yorozu",
         category: "JJK",
         image: "Images/Characters/JJK/Yorozu.webp",
@@ -214,6 +219,11 @@ let products = {
         productName: "Borgos",
         category: "DBZ",
         image: "Images/Characters/DBZ/Borgos.webp",
+      },
+      {
+        productName: "Himawari Uzumaki",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Himawari.webp",
       },
       {
         productName: "Broly",
