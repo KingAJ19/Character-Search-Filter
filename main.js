@@ -16,6 +16,11 @@ let products = {
         image: "Images/Characters/DBZ/Android_13.webp",
       },
       {
+        productName: "Asuma Sarutobi",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Asuma.webp",
+      },
+      {
         productName: "Yuji Itadori",
         category: "JJK",
         image: "Images/Characters/JJK/yuji.png",
