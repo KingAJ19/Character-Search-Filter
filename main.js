@@ -406,6 +406,11 @@ let products = {
         image: "Images/Characters/DBZ/Goku Black.webp",
       },
       {
+        productName: "Kurama",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Kurama.webp",
+      },
+      {
         productName: "Goku",
         category: "DBZ",
         image: "Images/Characters/DBZ/Goku.webp",
@@ -416,6 +421,11 @@ let products = {
         image: "Images/Characters/JJK/Kirara.webp",
       },
       {
+        productName: "Might Guy",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Might_Guy.webp",
+      },
+      {
         productName: "Kashimo",
         category: "JJK",
         image: "Images/Characters/JJK/Kashimo.webp",
@@ -424,6 +434,11 @@ let products = {
         productName: "Supreme Kai",
         category: "DBZ",
         image: "Images/Characters/DBZ/Kaioshin.webp",
+      },
+      {
+        productName: "Minate Kamikaze",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Minato.webp",
       },
       {
         productName: "Kaori Itadori",
@@ -441,6 +456,11 @@ let products = {
         image: "Images/Characters/JJK/Kamo.webp",
       },
       {
+        productName: "Neji Hyuga",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Neji.webp",
+      },
+      {
         productName: "Kid Buu",
         category: "DBZ",
         image: "Images/Characters/DBZ/Kid_Buu.webp",
@@ -456,9 +476,19 @@ let products = {
         image: "Images/Characters/JJK/Ino.webp",
       },
       {
+        productName: "Obito Uchiha",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Obito.webp",
+      },
+      {
         productName: "Krillin",
         category: "DBZ",
         image: "Images/Characters/DBZ/Krillin.webp",
+      },
+      {
+        productName: "Sasuke Uchiha",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Sasuke.webp",
       },
       {
         productName: "Master Roshi",
@@ -479,6 +509,11 @@ let products = {
         productName: "Mr Satan",
         category: "DBZ",
         image: "Images/Characters/DBZ/Mr_Satan.webp",
+      },
+      {
+        productName: "Tsunade",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Tsunade.webp",
       },
       {
         productName: "Pan",
