@@ -306,6 +306,11 @@ let products = {
         image: "Images/Characters/DBZ/Cell.webp",
       },
       {
+        productName: "Kakashi Hatake",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Kakashi.webp",
+      },
+      {
         productName: "Momo Nishimiya",
         category: "JJK",
         image: "Images/Characters/JJK/Momo.webp",
@@ -319,6 +324,11 @@ let products = {
         productName: "Kasumi Miwa",
         category: "JJK",
         image: "Images/Characters/JJK/Miwa.webp",
+      },
+      {
+        productName: "Kakuzu",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Kakuzu.webp",
       },
       {
         productName: "Dabura",
@@ -336,9 +346,19 @@ let products = {
         image: "Images/Characters/JJK/Megumi.webp",
       },
       {
+        productName: "Kankuro",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Kankuro.webp",
+      },
+      {
         productName: "Damom",
         category: "DBZ",
         image: "Images/Characters/DBZ/Damom.webp",
+      },
+      {
+        productName: "Karin",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Karin.webp",
       },
       {
         productName: "Dende",
@@ -349,6 +369,11 @@ let products = {
         productName: "Maki Zenin",
         category: "JJK",
         image: "Images/Characters/JJK/Maki.webp",
+      },
+      {
+        productName: "Konohamaru Sarutobi",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Konohamaru.webp",
       },
       {
         productName: "Frieza",
