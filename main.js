@@ -241,6 +241,11 @@ let products = {
         image: "Images/Characters/DBZ/Bubbles.webp",
       },
       {
+        productName: "Hiruko",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Hiruko.webp",
+      },
+      {
         productName: "Yuki Tsukomo",
         category: "JJK",
         image: "Images/Characters/JJK/Yuki.webp",
@@ -249,6 +254,11 @@ let products = {
         productName: "Yuta Okkotsu",
         category: "JJK",
         image: "Images/Characters/JJK/Yuta.webp",
+      },
+      {
+        productName: "Itachi Uchiha",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Itachi.webp",
       },
       {
         productName: "Remi",
@@ -261,9 +271,19 @@ let products = {
         image: "Images/Characters/DBZ/Bulma.webp",
       },
       {
+        productName: "Jiraiya",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Jiraiya.webp",
+      },
+      {
         productName: "Burter",
         category: "DBZ",
         image: "Images/Characters/DBZ/Burter.webp",
+      },
+      {
+        productName: "Jugo",
+        category: "Naruto",
+        image: "Images/Characters/Naruto/Jugo.webp",
       },
       {
         productName: "Caulif",
