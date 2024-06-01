@@ -156,6 +156,11 @@ let products = {
         image: "Images/Characters/JJK/Yaga.webp",
       },
       {
+        productName: "Illumi Zoldyck",
+        category: "HxH",
+        image: "Images/Characters/HxH/Illumi.webp",
+      },
+      {
         productName: "Rin Amai",
         category: "JJK",
         image: "Images/Characters/JJK/Rin.webp",
