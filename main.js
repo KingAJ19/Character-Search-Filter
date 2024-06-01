@@ -476,6 +476,11 @@ let products = {
         image: "Images/Characters/DBZ/Dabura.webp",
       },
       {
+        productName: "Zushi",
+        category: "HxH",
+        image: "Images/Characters/HxH/Zushi.webp",
+      },
+      {
         productName: "Mei Mei",
         category: "JJK",
         image: "Images/Characters/JJK/Mei_Mei.webp",
