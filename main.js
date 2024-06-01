@@ -6,6 +6,11 @@ let products = {
         image: "Images/Characters/JJK/gojo.png",
       },
       {
+        productName: "Alluka Zoldyck",
+        category: "HxH",
+        image: "Images/Characters/HxH/Alluka.webp",
+      },
+      {
         productName: "Naruto Uzumaki",
         category: "Naruto",
         image: "Images/Characters/Naruto/Naruto.webp",
