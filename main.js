@@ -36,6 +36,11 @@ let products = {
         image: "Images/Characters/JJK/yuji.png",
       },
       {
+        productName: "Barry",
+        category: "HxH",
+        image: "Images/Characters/HxH/Barry.webp",
+      },
+      {
         productName: "Android 16",
         category: "DBZ",
         image: "Images/Characters/DBZ/Android_16.webp",
