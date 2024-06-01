@@ -296,6 +296,11 @@ let products = {
         image: "Images/Characters/JJK/Todo.webp",
       },
       {
+        productName: "Morel Mackernasey",
+        category: "HxH",
+        image: "Images/Characters/HxH/Morel.webp",
+      },
+      {
         productName: "Bio-Man",
         category: "DBZ",
         image: "Images/Characters/DBZ/Bio-Man.webp",
