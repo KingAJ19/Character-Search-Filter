@@ -126,6 +126,11 @@ let products = {
         image: "Images/Characters/Naruto/Choji.webp",
       },
       {
+        productName: "Gon Freecs",
+        category: "HxH",
+        image: "Images/Characters/HxH/Gon.webp",
+      },
+      {
         productName: "Shoko Ieri",
         category: "JJK",
         image: "Images/Characters/JJK/Shoko.webp",
