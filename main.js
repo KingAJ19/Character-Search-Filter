@@ -341,7 +341,7 @@ let products = {
         image: "Images/Characters/JJK/Yu.webp",
       },
       {
-        productName: "Palm",
+        productName: "Palm Siberia",
         category: "HxH",
         image: "Images/Characters/HxH/Palm.webp",
       },
