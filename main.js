@@ -281,6 +281,11 @@ let products = {
         image: "Images/Characters/Naruto/Hanabi.webp",
       },
       {
+        productName: "Menchi",
+        category: "HxH",
+        image: "Images/Characters/HxH/Menchi.webp",
+      },
+      {
         productName: "Bido",
         category: "DBZ",
         image: "Images/Characters/DBZ/Bido.webp",
