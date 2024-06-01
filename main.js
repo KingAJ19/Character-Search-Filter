@@ -396,6 +396,11 @@ let products = {
         image: "Images/Characters/Naruto/Jiraiya.webp",
       },
       {
+        productName: "Pyon",
+        category: "HxH",
+        image: "Images/Characters/HxH/Pyon.webp",
+      },
+      {
         productName: "Burter",
         category: "DBZ",
         image: "Images/Characters/DBZ/Burter.webp",
