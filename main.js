@@ -361,6 +361,11 @@ let products = {
         image: "Images/Characters/JJK/Yuki.webp",
       },
       {
+        productName: "Pokkle",
+        category: "HxH",
+        image: "Images/Characters/HxH/Pokkle.webp",
+      },
+      {
         productName: "Yuta Okkotsu",
         category: "JJK",
         image: "Images/Characters/JJK/Yuta.webp",
