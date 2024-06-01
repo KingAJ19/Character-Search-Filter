@@ -171,6 +171,11 @@ let products = {
         image: "Images/Characters/Naruto/Deidara.webp",
       },
       {
+        productName: "Johness",
+        category: "HxH",
+        image: "Images/Characters/HxH/Johness.webp",
+      },
+      {
         productName: "Angela",
         category: "DBZ",
         image: "Images/Characters/DBZ/Angela.webp",
@@ -179,6 +184,11 @@ let products = {
         productName: "Dekai",
         category: "Naruto",
         image: "Images/Characters/Naruto/Dekai.webp",
+      },
+      {
+        productName: "Khara",
+        category: "HxH",
+        image: "Images/Characters/HxH/Khara.webp",
       },
       {
         productName: "Riko Amanai",
@@ -196,6 +206,11 @@ let products = {
         image: "Images/Characters/JJK/Ryu.webp",
       },
       {
+        productName: "Killua Zoldyck",
+        category: "HxH",
+        image: "Images/Characters/HxH/Killua.webp",
+      },
+      {
         productName: "Ebisu",
         category: "Naruto",
         image: "Images/Characters/Naruto/Ebisu.webp",
@@ -206,6 +221,11 @@ let products = {
         image: "Images/Characters/JJK/Takaba.webp",
       },
       {
+        productName: "Kite",
+        category: "HxH",
+        image: "Images/Characters/HxH/Kite.webp",
+      },
+      {
         productName: "Baby",
         category: "DBZ",
         image: "Images/Characters/DBZ/Baby.webp",
@@ -214,6 +234,11 @@ let products = {
         productName: "Takako Uro",
         category: "JJK",
         image: "Images/Characters/JJK/Takako.webp",
+      },
+      {
+        productName: "Kurapika",
+        category: "HxH",
+        image: "Images/Characters/HxH/Kurapika.webp",
       },
       {
         productName: "Tengen",
