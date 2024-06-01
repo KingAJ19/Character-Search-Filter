@@ -341,6 +341,11 @@ let products = {
         image: "Images/Characters/JJK/Yu.webp",
       },
       {
+        productName: "Palm",
+        category: "HxH",
+        image: "Images/Characters/HxH/Palm.webp",
+      },
+      {
         productName: "Bubbles",
         category: "DBZ",
         image: "Images/Characters/DBZ/Bubbles.webp",
