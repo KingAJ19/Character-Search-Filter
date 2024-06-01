@@ -66,6 +66,11 @@ let products = {
         image: "Images/Characters/JJK/toji.jpg",
       },
       {
+        productName: "Canary",
+        category: "HxH",
+        image: "Images/Characters/HxH/canary.webp",
+      },
+      {
         productName: "Rika Orimoto",
         category: "JJK",
         image: "Images/Characters/JJK/rika.webp",
