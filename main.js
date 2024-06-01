@@ -111,6 +111,11 @@ let products = {
         image: "Images/Characters/JJK/sukuna.png",
       },
       {
+        productName: "Ging Freecs",
+        category: "HxH",
+        image: "Images/Characters/HxH/Ging.webp",
+      },
+      {
         productName: "Atsuya Kusakabe",
         category: "JJK",
         image: "Images/Characters/JJK/Kusakabe.webp",
