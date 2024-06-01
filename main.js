@@ -461,6 +461,11 @@ let products = {
         image: "Images/Characters/JJK/Miwa.webp",
       },
       {
+        productName: "Zeno Zoldyck",
+        category: "HxH",
+        image: "Images/Characters/HxH/Zeno.webp",
+      },
+      {
         productName: "Kakuzu",
         category: "Naruto",
         image: "Images/Characters/Naruto/Kakuzu.webp",
