@@ -436,6 +436,11 @@ let products = {
         image: "Images/Characters/DBZ/Cell.webp",
       },
       {
+        productName: "Wing",
+        category: "HxH",
+        image: "Images/Characters/HxH/Wing.webp",
+      },
+      {
         productName: "Kakashi Hatake",
         category: "Naruto",
         image: "Images/Characters/Naruto/Kakashi.webp",
