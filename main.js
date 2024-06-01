@@ -321,6 +321,11 @@ let products = {
         image: "Images/Characters/DBZ/Borgos.webp",
       },
       {
+        productName: "Isaac Netero",
+        category: "HxH",
+        image: "Images/Characters/HxH/Netero.webp",
+      },
+      {
         productName: "Himawari Uzumaki",
         category: "Naruto",
         image: "Images/Characters/Naruto/Himawari.webp",
